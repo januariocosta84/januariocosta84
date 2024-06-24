@@ -1,3 +1,2 @@
-My name is Januario da Costa. 
-I'm a full-stack developer with a degree in electronic and computer networking. I'm passionate about web application development and enthusiastic about embracing new technologies. 
-Currently, my primary research focus in machine learning.
+Currently, I work as a Software Developer at IBI with the USAID Program, while simultaneously holding a remote position at Wordmosaic Company. 
+Previously, I served as the IT Coordinator at Mercy Corps Agency. Additionally, I was an employee of the Major Project Secretariat, where I was responsible for IT networking administration, database management, and web development.
